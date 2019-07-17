@@ -44,7 +44,6 @@ public class Sabetudo {
 		}
 		System.out.println("Você está no nível 1");
 		
-		
 		while(nivelQueEsta == 1) {
 			if(errosDeLetra >= 5) {
 				System.out.println();
